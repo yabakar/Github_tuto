@@ -1,5 +1,7 @@
-this reposotory is github formation
+# this reposotory is ___github formation___
 
-Second commit by an ohter user
-test branche
-ttetttte
+### Second commit by an ohter user
+* [x] test branche
+
+* [x] ttetttte
+---
